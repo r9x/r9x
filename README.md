@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ahmed 👋</h1>
 
-<!--
-**r9x/r9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Minecraft Plugin Developer | Discord Bot Developer | Backend Developer</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Currently Working On
+- 🛠 Developing **VeinMC** – a next-generation Minecraft server
+- 👑 Lead Developer & Team Leader at **Artemis Dev**
+
+---
+
+### 🧠 Skills
+- 💻 Java, Git, and more
+
+---
+
+### 📫 Contact Me
+- 💬 Discord: [`@43e`](https://discord.com/users/43e)
