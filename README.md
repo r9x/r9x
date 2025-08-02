@@ -13,7 +13,9 @@
 ---
 
 ### 🧠 Skills
-- 💻 Java, Git, and more
+- 💻 Languages: `Java`, `SQL`, `HTML`
+- 🛠 Tools: `Git`, `Gradle`, `Maven`, `IntelliJ IDEA`, `VSCode`
+- ☁️ Others: `API Integration`, `Linux`, `Webhooks`
 
 ---
 
